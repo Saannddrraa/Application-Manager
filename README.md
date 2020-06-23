@@ -1,1 +1,1 @@
-# Application-Manager/Application-Manager.exe
+# Application-Manager/ApplicationManager.exe
